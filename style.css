@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #675A;
+    background: rgba(4, 17, 157, 0.667);
 }
 
 .wrapper{
@@ -98,5 +98,5 @@ form button{
     color: #ffff;
     font-size: 17px;
     cursor: pointer;
-    background: #675A;
+    background: rgba(18, 106, 3, 0.885);;
 }
